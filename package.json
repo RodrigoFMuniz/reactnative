@@ -1,0 +1,22 @@
+{
+  "name": "app1",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoFMuniz/reactnative.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoFMuniz/reactnative/issues"
+  },
+  "homepage": "https://github.com/RodrigoFMuniz/reactnative#readme",
+  "dependencies": {
+    "expo-cli": "^5.3.1"
+  }
+}
